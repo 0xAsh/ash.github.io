@@ -3,10 +3,11 @@ layout: page
 title: About me
 ---
 
-Just a dude who's interested in all things offensive security, red teaming, hacking(?), information security, whatever else you may call it. 
+Interested in all things offensive security, red teaming, information security, whatever else you may call it. 
 
-- Currently a pentester @ [risk3sixty](https://risk3sixty.com)
-- Want to talk to me? Shoot me a message on [Keybase](https://keybase.io/r3sasher)
+- Follow me on [Twitter](https://twitter.com/0xAshhh) :)
+- Add me on Discord: Ashh#1446
+- Shoot me a message on [Keybase](https://keybase.io/r3sasher)
 
 ### Certifications/Experience/Accolades (so far)
 - [OSCP](https://www.offensive-security.com/pwk-oscp/)
@@ -20,8 +21,6 @@ Just a dude who's interested in all things offensive security, red teaming, hack
 - TBD
 
 ### What am I working on currently?
-For work I'm currently working on  [_redacted_]... yeah sorry I can't say. 
-
-In my _free_ time I'm currently making a big push to get caught up with legacy HackTheBox content. This includes challenges/boxes, which you'll see me post about from time to time.
+I'm currently working on [CRTO](https://www.zeropointsecurity.co.uk/red-team-ops) and getting better at Python. When that's done I'll be focusing on compelting HackTheBox's Offshore.
 
 <center><script src="https://www.hackthebox.eu/badge/72624"></script></center>

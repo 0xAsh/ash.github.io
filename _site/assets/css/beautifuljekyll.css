@@ -12,7 +12,7 @@ body {
   font-size: 1.125rem;
   color: #C1C1C1;
   position: relative;
-  background-color: #101C2C;
+  background-color: #292A2D;
   
 }
 p {
@@ -362,7 +362,7 @@ footer {
   padding: 1.875rem 0;
   margin-top: 3.125rem;
   font-size: 0.875rem;
-  background-color: #101C2C;
+  background-color: #1E2125;
   
 }
 
@@ -371,7 +371,7 @@ footer p.text-muted {
 }
 
 footer a {
-  color: #404040;
+  color: #26462D;
 }
 
 footer .list-inline {
